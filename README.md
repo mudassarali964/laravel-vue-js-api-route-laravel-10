@@ -1,5 +1,8 @@
 # Laravel-10 VueJS-3 Vite-4 CRUD Operation ##
 
+<img width="1430" alt="LVC-1" src="https://user-images.githubusercontent.com/55048197/225722239-aef0f5e4-29bb-424f-88f0-db9237a6a3be.png">
+<img width="1430" alt="LVC-2" src="https://user-images.githubusercontent.com/55048197/225722267-0d431319-297f-430f-b936-cd29cb0c64a4.png">
+
 ## Installation
 
 ``` bash
